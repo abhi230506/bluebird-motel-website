@@ -34,9 +34,6 @@ The website is frontend-only and intentionally kept simple. There is no backend,
 - SEO and metadata setup
 - Static deployment configuration
 
-## Screenshots
-(Add screenshots here)
-
 ## Notes
 This repository contains the frontend implementation of the website.  
 The live site may contain small content or configuration differences compared to this repo.
