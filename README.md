@@ -22,6 +22,17 @@ The goal of this project was to create a simple, fast, and clear website that ma
 - SEO-friendly structure
 - Fast load times via static generation
 
+## Screenshots
+
+### Homepage (Desktop)
+![Homepage Desktop](media/Homepage%20of%20the%20Website.png)
+
+### Homepage (Mobile)
+![Homepage Mobile](media/Homepage%20of%20the%20Website%20(Mobile).png)
+
+### What's Nearby Section
+![Nearby Section](media/What's%20Nearby%20Section%20of%20the%20Website.png)
+
 ## Project Context
 This is a real-world client project built for an operating small business.
 
