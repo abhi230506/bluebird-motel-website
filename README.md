@@ -5,8 +5,7 @@ Frontend website built for a small, family-owned motel to replace an outdated si
 The goal of this project was to create a simple, fast, and clear website that makes it easy for guests to find information, view rooms, and contact the business.
 
 ## Live Site
-🔗 https://www.bluebirdmotel.ca  
-(if the domain is different, swap it here)
+🔗 https://www.bluebirdmotelinnisfail.com
 
 ## Tech Stack
 - Next.js
